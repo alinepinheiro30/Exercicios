@@ -7,3 +7,12 @@ C:\Bacen\HSM\C#\One\obj\Debug\netstandard2.0\One.AssemblyInfo.cs
 C:\Bacen\HSM\C#\One\obj\Debug\netstandard2.0\One.csproj.CoreCompileInputs.cache
 C:\Bacen\HSM\C#\One\obj\Debug\netstandard2.0\One.dll
 C:\Bacen\HSM\C#\One\obj\Debug\netstandard2.0\One.pdb
+C:\Bacen\HSM\Exercicios\C#\One\bin\Debug\netstandard2.0\One.deps.json
+C:\Bacen\HSM\Exercicios\C#\One\bin\Debug\netstandard2.0\One.dll
+C:\Bacen\HSM\Exercicios\C#\One\bin\Debug\netstandard2.0\One.pdb
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.csprojAssemblyReference.cache
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.AssemblyInfoInputs.cache
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.AssemblyInfo.cs
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.csproj.CoreCompileInputs.cache
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.dll
+C:\Bacen\HSM\Exercicios\C#\One\obj\Debug\netstandard2.0\One.pdb

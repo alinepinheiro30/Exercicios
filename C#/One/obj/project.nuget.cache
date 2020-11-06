@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ht8da0FWPzwpB/wU2E4+88ihfPDVVUzOfNOm2brgfh65F486bkbPpvpX3GdYQiPf3FSRbRq7F07Wqzjf7s6xIw==",
+  "dgSpecHash": "cAnvSailEjKtBsOG9aBkzhD4fuGDyU2RE4mCvKE5+epKkPC0lKuHZexDbezjJD3FPh/WgndezdR7vWObTpNz+w==",
   "success": true,
-  "projectFilePath": "C:\\Bacen\\HSM\\C#\\One\\One.csproj",
+  "projectFilePath": "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\One.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aline\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\aline\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

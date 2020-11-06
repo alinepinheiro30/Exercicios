@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bacen\\HSM\\C#\\One\\One.csproj": {}
+    "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\One.csproj": {}
   },
   "projects": {
-    "C:\\Bacen\\HSM\\C#\\One\\One.csproj": {
+    "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\One.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bacen\\HSM\\C#\\One\\One.csproj",
+        "projectUniqueName": "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\One.csproj",
         "projectName": "One",
-        "projectPath": "C:\\Bacen\\HSM\\C#\\One\\One.csproj",
+        "projectPath": "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\One.csproj",
         "packagesPath": "C:\\Users\\aline\\.nuget\\packages\\",
-        "outputPath": "C:\\Bacen\\HSM\\C#\\One\\obj\\",
+        "outputPath": "C:\\Bacen\\HSM\\Exercicios\\C#\\One\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
